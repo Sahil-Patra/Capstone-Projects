@@ -28,7 +28,7 @@ This collection highlights our ability to take complex software requirements fro
 ## 🏆 Projects Summary
 
 | # | Project Name | Quick Link |
-| :-: | :--- | :--- | :--- | :--- |
+| :-: | :--- |
 | **01** | **[NBA Shot Prediction]** | [View Project 📂](./NBA/) |
 | **02** | **[Skin Disease Prediction]** | [View Project 📂](./skin-disease/) |
 | **03** | **[Earthquake Damage Prediction]** | [View Project 📂](./earthquake-damage/) |
