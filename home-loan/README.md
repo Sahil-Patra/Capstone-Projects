@@ -51,12 +51,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm imbala
 - imbalanced-learn
 - scipy
 
-### Data Setup
-
-1. Download the dataset from: https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1006-HomeLoanDef.zip
-2. Extract all CSV files to the project directory
-3. Ensure all 7 CSV files are in the same folder as the analysis script
-
 ---
 
 ## 📊 Analysis Pipeline
@@ -145,21 +139,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm imbala
 - Recall
 - F1 Score
 - ROC-AUC Score
-
----
-
-## 💻 Usage
-
-### Running the Analysis
-
-```bash
-python home_loan_default_analysis.py
-```
-
-### Output Files
-
-1. **model_comparison_results.csv** - Performance metrics for all models
-2. **Console output** - Detailed analysis results and progress
 
 ---
 
@@ -285,26 +264,8 @@ python home_loan_default_analysis.py
 
 ---
 
-## 👥 Authors
-
-Data Science Team
-
----
-
 ## 📄 License
 
 This project is for educational purposes as part of the CDS Capstone Project.
 
 ---
-
-## 📞 Support
-
-For questions or issues, please refer to the project documentation or contact the data science team.
-
----
-
-## 🙏 Acknowledgments
-
-- Dataset provided by Home Credit Group via Kaggle
-- CDS Capstone Project framework
-- Open-source Python community for excellent libraries
