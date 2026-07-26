@@ -109,25 +109,6 @@ A confusion matrix was also generated to evaluate per-class prediction performan
 ├── README.md                       # Project documentation
 └── requirements.txt                # Python dependencies
 ```
-
-## 🚀 Getting Started
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/earthquake-damage-prediction.git
-   cd earthquake-damage-prediction
-   ```
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset from [DrivenData](https://www.drivendata.org/competitions/57/nepal-earthquake/) and place `train_values.csv` and `train_labels.csv` in a `Data/` folder.
-4. Update the file paths in the notebook's data-loading cell to match your local setup.
-5. Run the notebook:
-   ```bash
-   jupyter notebook Earth_Damage_Prediction.ipynb
-   ```
-
 ## 📄 License
 
 This project is open source. Add a license file (e.g., MIT) if you plan to distribute it publicly.
